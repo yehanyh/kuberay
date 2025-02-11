@@ -1,0 +1,12 @@
+ChartValues: {}
+HelmChartPath: helm-chart/ray-cluster
+RuntimeType: Kubernetes
+ServiceType: private
+ArtifactSourceType: HelmChart
+ServiceBuildRegion: ap-southeast-1
+RepoName: yehanyh/kuberay
+RegionId: cn-hangzhou
+OutputType: HelmNotes
+Owner: yehanyh
+Branch: master
+Platform: github
